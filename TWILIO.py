@@ -14,3 +14,4 @@ message = client.messages \
                  )
 
 print(message.sid)
+# this prints message to the user
